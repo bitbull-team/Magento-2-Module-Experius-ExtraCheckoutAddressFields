@@ -1,3 +1,6 @@
+## Unreleased 
+* [FEATURE] Handled multiple type of component *(Mirko Cesaro)*
+
 ## 1.2.2 (2021-02-08)
 
 [View Release](git@github.com:experius/Magento-2-Module-Experius-ExtraCheckoutAddressFields.git/commits/tag/1.2.2)
